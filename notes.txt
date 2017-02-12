@@ -1,0 +1,4 @@
+Some notes during the development
+
+1. for(1 = 0; i< i ++ ) loop does not work properly
+2. Before hook doesn't work properly with mocha
